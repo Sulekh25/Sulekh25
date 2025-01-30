@@ -1,6 +1,5 @@
 # Sulekh's GitHub Profile
 
-![Profile Banner](https://your-banner-image-url)
 
 ## Hi there 👋
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:
@@ -16,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - Database management (SQL, MongoDB).
 
 ### 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: [sulekhniwal@gmail.com](mailto:sulekhniiwal@gmail.com)
+- LinkedIn: [www.linkedin.com/in/sulekh-niwal-kumawat-293a442a3](www.linkedin.com/in/sulekh-niwal-kumawat-293a442a3)
+- Twitter: [@NiwalSulekh](https://x.com/NiwalSulekh)
 
 ### ⚡ Fun fact
 I love solving puzzles and playing chess in my free time.
