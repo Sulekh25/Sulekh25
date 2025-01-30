@@ -1,40 +1,52 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sulekh's GitHub Profile</title>
+</head>
+<body>
+    <h1>Hi there 👋</h1>
+    <p>Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:</p>
 
-<!--
-**Sulekh25/Sulekh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi there, I'm Sulekh 👋 --!>
+    <h2>🌱 What I'm currently learning</h2>
+    <ul>
+        <li>New programming languages and frameworks.</li>
+        <li>Advanced algorithms and data structures.</li>
+        <li>Best practices for software development.</li>
+    </ul>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:
+    <h2>💬 Ask me about</h2>
+    <ul>
+        <li>Web development (HTML, CSS, JavaScript, React, Node.js).</li>
+        <li>Backend development (Python, Django, Flask).</li>
+        <li>Database management (SQL, MongoDB).</li>
+    </ul>
 
-## 🌱 What I'm currently learning
-- New programming languages and frameworks.
-- Advanced algorithms and data structures.
-- Best practices for software development.
+    <h2>📫 How to reach me</h2>
+    <ul>
+        <li>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></li>
+        <li>Twitter: <a href="https://twitter.com/yourtwitterhandle">@yourtwitterhandle</a></li>
+    </ul>
 
-## 💬 Ask me about
-- Web development (HTML, CSS, JavaScript, React, Node.js).
-- Backend development (Python, Django, Flask).
-- Database management (SQL, MongoDB).
+    <h2>⚡ Fun fact</h2>
+    <p>I love solving puzzles and playing chess in my free time.</p>
 
-## 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+    <h2>📊 GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sulekh25&show_icons=true&theme=radical" alt="Sulekh's GitHub Stats">
 
-## ⚡ Fun fact
-- I love solving puzzles and playing chess in my free time.
+    <h2>🏆 GitHub Trophies</h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=Sulekh25&theme=onedark" alt="Sulekh's GitHub Trophies">
 
-## 📊 GitHub Stats
-![Sulekh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sulekh25&show_icons=true&theme=radical)
+    <h2>💼 Skills</h2>
+    <ul>
+        <li><strong>Languages:</strong> Python, JavaScript, HTML, CSS</li>
+        <li><strong>Frameworks:</strong> React, Node.js, Django, Flask</li>
+        <li><strong>Tools:</strong> Git, Docker, VSCode</li>
+    </ul>
 
-## 🏆 GitHub Trophies
-![Sulekh's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sulekh25&theme=onedark)
-
-## 💼 Skills
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, VSCode
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+    <p>---</p>
+    <p>Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</p>
+</body>
+</html>
