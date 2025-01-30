@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ### 📫 How to reach me
 - Email: [sulekhniwal@gmail.com](mailto:sulekhniiwal@gmail.com)
-- LinkedIn: [www.linkedin.com/in/sulekh-niwal-kumawat-293a442a3](www.linkedin.com/in/sulekh-niwal-kumawat-293a442a3)
+- LinkedIn: [Sulekh Niwal Kumawat](www.linkedin.com/in/sulekh-niwal-kumawat-293a442a3)
 - Twitter: [@NiwalSulekh](https://x.com/NiwalSulekh)
 
 ### ⚡ Fun fact
