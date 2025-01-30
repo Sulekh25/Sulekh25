@@ -35,4 +35,4 @@ I love solving puzzles and playing chess in my free time.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+Thanks for visiting my profile! Please feel free to explore my repositories and let me know if you have any questions or ideas for collaboration.
