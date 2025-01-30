@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sulekh's GitHub Profile</title>
-</head>
-<body>
+Sulekh's GitHub Profile
+
+
     <h1>Hi there 👋</h1>
     <p>Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:</p>
 
@@ -48,5 +43,4 @@
 
     <p>---</p>
     <p>Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</p>
-</body>
-</html>
+
